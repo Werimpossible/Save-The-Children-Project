@@ -1,6 +1,7 @@
-# Travel Points
+# Save The Children 
 
-![Travel Points Logo](images/logotravel.png)
+![stcc-logo](https://user-images.githubusercontent.com/30583011/38583536-ef78dc84-3cd8-11e8-874d-1081f62ddfca.png)
+
 
 ## Índice
 
